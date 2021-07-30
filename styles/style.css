@@ -1,0 +1,139 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+/* //////////////////////////////////////////// 
+common styles 
+//////////////////////////////////////////// */
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.my-btn{
+    background: #E76F51;
+    color: white;
+    padding: 6px 12px;
+    border: 0px;
+
+}
+.my-btn:hover{
+    background: #00c88f;
+    color: black;
+    padding: 6px 12px;
+    transition: 1s;
+    border: 0px;
+}   
+
+
+
+/* //////////////////////////////////////////// 
+ header
+//////////////////////////////////////////// */
+.bg-header{
+    background-color: #264653;
+
+}
+.links-color{
+    color: #FFF !important;
+}
+.title-color{
+    color: white;
+}
+
+
+/* //////////////////////////////////////////// 
+ Fetured Bikes 2021 section
+//////////////////////////////////////////// */
+
+.text-color{
+    color: #E76F51;
+
+}
+.feture-bike img{
+    filter: grayscale(100%);
+}
+/* //////////////////////////////////////////// 
+    happy Clients says end
+//////////////////////////////////////////// */
+
+.client-text-color{
+    color: #E76F51;
+}
+.client-thumbnail img{
+    width: 50%;
+    padding: 20px;
+}
+.icons i{
+    color: #E76F51;
+}
+.client-3-thumbnail{
+    /* margin-top: 30px; */
+    /* border-radius: 75%; */
+    width: 129px;
+    height: 179px;
+}
+
+/* //////////////////////////////////////////// 
+  happy Clients says end
+//////////////////////////////////////////// */
+
+
+/* //////////////////////////////////////////// 
+    Frequently Asked Questions start
+//////////////////////////////////////////// */
+
+.faq-color{
+    color: #383838;
+
+}
+.faq-ans-color{
+    color: #7E848C;
+}    
+
+
+/* //////////////////////////////////////////// 
+    Frequently Asked Questions
+//////////////////////////////////////////// */
+
+
+/* //////////////////////////////////////////// 
+    Let's Enjoy Riding with Us section
+//////////////////////////////////////////// */
+
+.riding-btn{
+    background: #AC1718;
+    color: white;
+    padding: 8px 18px;
+    border: 0px; 
+} 
+.riding-btn:hover{
+    background-color: #E76F51;
+    color: #f9f9f9;
+}
+
+
+/* //////////////////////////////////////////// 
+     what  WE'RE UP TO
+//////////////////////////////////////////// */
+
+.story{
+    background-color: #F9F9F9;
+}
+.btn-color{
+    color: #337AB7;
+}
+.wwut-box.is-gray {
+    background-color: #f9f9f9;
+}
+.comp-animated{
+    overflow: hidden;
+}
+.comp-animated:hover img{
+    transform: scale(1.2);
+    /* height: 100px; */
+    /* transform: translate(-50%,-50%); */
+    transition: 1s;
+}
+/* //////////////////////////////////////////// 
+
+//////////////////////////////////////////// */
